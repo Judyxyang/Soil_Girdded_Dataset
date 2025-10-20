@@ -1,0 +1,2 @@
+import geopandas as gpd
+aoi = gpd.read_file("WestSouth_Brisbane_AOI.geojson")
